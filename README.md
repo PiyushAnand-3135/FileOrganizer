@@ -1,0 +1,1 @@
+"This Python script helps organize files in a specified directory by categorizing them into folders based on file type. It scans the target directory, identifies the file extensions, and moves each file into a corresponding folder (e.g., 'Documents,' 'Images,' 'Videos'). It's a simple and efficient solution for keeping your files organized without manual sorting."
